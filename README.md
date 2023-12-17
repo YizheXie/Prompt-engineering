@@ -2,7 +2,7 @@
 **notebook** about DeepLearning AI couses & some openai_**api** uses experience
 Bilingual note
 
-**Resource: **
+**Resource:**
 
 [DataWhale](https://datawhalechina.github.io/prompt-engineering-for-developers/#/C1/1.%20%E7%AE%80%E4%BB%8B%20Introduction)
 
