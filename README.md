@@ -1,5 +1,5 @@
 # Prompt-engineering
-**notebook** about DeepLearning AI couses & some openai_**api** uses experience
+**Notebook** about DeepLearning AI couses & some openai_**api** uses experience
 Bilingual note
 
 **Resource:**
@@ -10,6 +10,8 @@ Bilingual note
 
 [Openai official developer platform](https://platform.openai.com/docs/overview)
 
+Recommended learning **track**:
+Datawhale+notebook --- DLAI  --- platform
 ## Lesson 1
 
 You will learn how to set environment & how to make clear and specifi instructions
